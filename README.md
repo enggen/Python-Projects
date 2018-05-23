@@ -1,2 +1,2 @@
-# Python-Projects-
-Python project examples.
+# Python Projects
+Python project examples. 
